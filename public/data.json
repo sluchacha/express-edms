@@ -1,0 +1,62 @@
+{
+  "organization": {
+    "code": "MOH040",
+    "name": "Ministry of Health Busia County",
+    "description": "Ministry of Health Busia County is located in Busia Town"
+  },
+  "job": {
+    "code": "JOB04020210718/01",
+    "name": "Head of ICT",
+    "description": "Manage all aspects partaining to ICT",
+    "noOfVacancies": 1,
+    "organizationId": "60f251792543ca2a6c491728"
+  },
+  "award": {
+    "name": "Masters"
+  },
+  "grade": {
+    "awardId": "",
+    "name": "Distinction"
+  },
+  "applicant": {
+    "fullname": " Stephen Luchacha ",
+    "nationalId": "24056434",
+    "dob": "1985-07-24",
+    "telephone": ["0712659790", "0770511643"],
+    "gender": "M",
+    "county": "Kakamega",
+    "subcounty": "Kakamega",
+    "ward": "Kakamega"
+  },
+  "application": {
+    "jobId": "60f255f8baafc93a40e67810",
+    "applicantId": "60f245aad0b8472284802a48",
+    "qualifications": [
+      {
+        "award": "Masters",
+        "title": "Business Development",
+        "grade": "Excellence",
+        "attainedDate": "2021-02-02"
+      },
+      {
+        "award": "Degree",
+        "title": "BBIT",
+        "grade": "Second class honors",
+        "attainedDate": "2008-10-17"
+      },
+      {
+        "award": "Diploma",
+        "title": "DBIT",
+        "grade": "credit",
+        "attainedDate": "2005-10-22"
+      },
+      {
+        "award": "Certificate",
+        "title": "CCNA4",
+        "grade": "credit",
+        "attainedDate": "2005-07-01"
+      }
+    ],
+    "ppr": "FHI 360 as a Software Developer Consultant "
+  }
+}

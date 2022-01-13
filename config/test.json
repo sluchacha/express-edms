@@ -1,0 +1,4 @@
+{
+  "jwtPrivateKey": "secret",
+  "db": "mongodb://localhost/edms_tests"
+}
